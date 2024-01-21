@@ -1,6 +1,6 @@
 # Sales SPA Project
 
-
+* Leia em [Português](https://github.com/kelvin-feltrin/DesenvolvimentoSPAComAngular/blob/main/README-pt.md)
 
 ## About the project
 The "Sales SPA Project" was developed to put into practice the development of an application that uses the SPA concept using Angular.
